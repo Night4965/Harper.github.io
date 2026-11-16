@@ -1,3 +1,2 @@
 <h1>Работа Валерии</h1>
 <a href = "./26 практика джава скрипт/index26_1.html">Сылка на занятие 26</a>
-<a herf = "https://night4965.github.io/Harper.github.io/">Назад</a>
