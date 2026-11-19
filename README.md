@@ -25,6 +25,16 @@
     <li><a href="./08/index.html">Практика 8</a></li>
     <li><a href="./09/index.html">Практика 9</a></li>
     <li><a href="./10/index.html">Практика 10</a></li>
+    <li><a href="./11/index.html">Практика 11</a></li>
+    <li><a href="./12/index.html">Практика 12</a></li>
+    <li><a href="./13/index.html">Практика 13</a></li>
+    <li><a href="./14/index.html">Практика 14</a></li>
+    <li><a href="./15/index.html">Практика 15</a></li>
+    <li><a href="./16/index.html">Практика 16</a></li>
+    <li><a href="./17/index.html">Практика 17</a></li>
+    <li><a href="./18/index.html">Практика 18</a></li>
+    <li><a href="./19/index.html">Практика 19</a></li>
+    <li><a href="./20/index.html">Практика 20</a></li>
     <li>Практика 24
         <ul>
             <li><a href="./24/index.html">Задания 1–3</a></li>
