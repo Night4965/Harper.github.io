@@ -44,8 +44,12 @@
             <li><a href="./24/index5.html">Задание 5</a></li>
         </ul>
     </li>
-
     <li><a href="./25/index25_1.html">Практика 25</a></li>
-    <li><a href="./26/index26_1.html">Практика 26</a></li>
+    <li>Практика 26
+        <ul>
+            <li><a href="./26/index26_1.html">Задание 1 (Выбор радиостанции и логотип)</a></li>
+            <li><a href="#">Задание 2 (Публикация сайта на GitHub — вы уже тут)</a></li>
+        </ul>
+    </li>
     <li><a href="./27/index27_1.html">Практика 27</a></li>
 </ul>
