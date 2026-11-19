@@ -24,6 +24,8 @@ document.addEventListener("DOMContentLoaded", () => {
         "19/index.html",
         "20/index.html",
         "24/index.html",
+        "24/index2.html",
+        "24/index3.html",
         "24/index4.html",
         "24/index5.html",
         "25/index25_1.html",
