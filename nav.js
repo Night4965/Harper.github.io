@@ -23,6 +23,8 @@ document.addEventListener("DOMContentLoaded", () => {
         "18/index.html",
         "19/index.html",
         "20/index.html",
+        "21/index.html",
+        "23/index.html",
         "24/index.html",
         "24/index2.html",
         "24/index3.html",
