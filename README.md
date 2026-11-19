@@ -35,6 +35,9 @@
     <li><a href="./18/index.html">Практика 18 (Основы Figma 2)</a></li>
     <li><a href="./19/index.html">Практика 19 (Основы Figma 3)</a></li>
     <li><a href="./20/index.html">Практика 20 (Основы Figma 4)</a></li>
+    <li><a href="./21/index.html">Практика 21 (Проектная работа №1)</a></li>
+    <li><a href="./21/index.html">Практика 22 (Проектная работа №1 продолжение)</a></li>
+    <li><a href="./23/index.html">Практика 23 (Проектная работа №2)</a></li>
     <li>Практика 24
         <ul>
             <li><a href="./24/index.html">Задание 1 (Кнопка alert)</a></li>
